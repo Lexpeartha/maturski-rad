@@ -1,4 +1,4 @@
-# Projekat za maturski rad iz web programiranje
+# Projekat za maturski rad iz predmeta web programiranje
 
 Repo za maturski rad na temu "Reaktivnost u JavaScript-u"
 
